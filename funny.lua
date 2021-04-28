@@ -1,7 +1,7 @@
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")
  
-local gamePassID = 0000000  -- Change this to your game pass ID
+local gamePassID = 17291441  -- Change this to your game pass ID
   
 -- Function to handle a completed prompt and purchase
 local function onPromptGamePassPurchaseFinished(player, purchasedPassID, purchaseSuccess)

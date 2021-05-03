@@ -1,5 +1,4 @@
-import mymodule
+def getInputs(input):
+  print(input)
 
-mymodule.greeting("Jonathan")
-
-print(mymodule.greeting)
+getInputs("E")
